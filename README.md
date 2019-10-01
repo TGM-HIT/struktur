@@ -1,6 +1,6 @@
 # Struktur einer Java-Anwendung 
 Diese Struktur dient zur Erstellung einer Java-Applikation.
-Alle Abgaben des Softwareentwicklungsprozesses finden eine Entsprechnung:
+Alle Abgaben entlang des Softwareentwicklungsprozesses können hier eingepflegt werden:
 
 - bin: enthält alle Files, zur Ausführung,...
 - design: enthält alle Dokumente des Softwaredesigns
